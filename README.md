@@ -1,2 +1,2 @@
 # git-learning
-THis is my first Git Repository
+This is my first Git Repository
